@@ -1,4 +1,4 @@
-> Current supported Firewall Vendors
+# Current supported Firewall Vendors
 
 | Tool | Status         | 
 |---------|----------------|
@@ -11,4 +11,4 @@
 | SonicWall | Complete |
 | Meraki | Complete |
 
-> Don't see your firewall? Let us know: *link to webpage*
+### Don't see your firewall? Let us know: *link to webpage*
