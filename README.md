@@ -20,7 +20,7 @@
   <p align="center">
     Your Open-Source SOC Assistant
     <br />
-    <a href="https://github.com/Shuffle/Shuffle/blob/main/.github/install-guide.md"><strong>Sign Up Now »</strong></a>
+    <a href="https://www.socfortress.co/request_beta.html"><strong>Sign Up Now »</strong></a>
     <br />
     <br />
   </p>
@@ -65,7 +65,7 @@ Get started today and see how ASK SOCFortress can take your security operations 
 
   <p align="center">
     <br />
-    <a href="https://www.socfortress.co/">
+    <a href="https://github.com/socfortress/ASK-SOCFortress/tree/main/images/procedure.png">
     <img src="images/procedure.PNG">
     </a>
     <br />
@@ -79,7 +79,7 @@ Get started today and see how ASK SOCFortress can take your security operations 
 
   <p align="center">
     <br />
-    <a href="https://www.socfortress.co/">
+    <a href="https://github.com/socfortress/ASK-SOCFortress/blob/main/images/technical.PNG">
     <img src="images/technical.PNG">
     </a>
     <br />
@@ -124,7 +124,7 @@ Once installed, configure the module to include:
 
   <p align="center">
     <br />
-    <a href="https://www.socfortress.co/">
+    <a href="https://github.com/socfortress/ASK-SOCFortress/blob/main/images/module_webui.PNG">
     <img src="images/module_webui.PNG">
     </a>
     <br />
@@ -140,7 +140,7 @@ Once installed, configure the module to include:
 
   <p align="center">
     <br />
-    <a href="https://www.socfortress.co/">
+    <a href="https://github.com/socfortress/ASK-SOCFortress/blob/main/images/add_module.PNG">
     <img src="images/add_module.PNG">
     </a>
     <br />
@@ -156,7 +156,7 @@ Once installed, configure the module to include:
 
   <p align="center">
     <br />
-    <a href="https://www.socfortress.co/">
+    <a href="https://github.com/socfortress/ASK-SOCFortress/blob/main/images/input_module.PNG">
     <img src="images/input_module.PNG">
     </a>
     <br />
@@ -172,7 +172,7 @@ Once installed, configure the module to include:
 
   <p align="center">
     <br />
-    <a href="https://www.socfortress.co/">
+    <a href="https://github.com/socfortress/ASK-SOCFortress/blob/main/images/configure_module.PNG">
     <img src="images/configure_module.PNG">
     </a>
     <br />
@@ -182,7 +182,58 @@ Once installed, configure the module to include:
 
 <!-- Running the module -->
 # Running the Module
+To run the module select `Case -> IOC` and select the dropdown menu. </br>
 
+> Beta currently supports IoC of type: `ip, domain, md5, sha224, sha256, sha512`
+
+
+<div align="center" width="100" height="50">
+
+  <h3 align="center">IoC</h3>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/socfortress/ASK-SOCFortress/blob/main/images/ioc.PNG">
+    <img src="images/ioc.PNG">
+    </a>
+    <br />
+    <br />
+  </p>
+</div>
+
+<div align="center" width="100" height="50">
+
+  <h3 align="center">Run Module</h3>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/socfortress/ASK-SOCFortress/blob/main/images/run_ioc.PNG">
+    <img src="images/run_ioc.PNG">
+    </a>
+    <br />
+    <br />
+  </p>
+</div>
+
+> # Refresh the webpage within your browser. 
+> Auto refresh is coming soon
+
+<div align="center" width="100" height="50">
+
+  <h3 align="center">View Report</h3>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/socfortress/ASK-SOCFortress/blob/main/images/report.PNG">
+    <img src="images/report.PNG">
+    </a>
+    <br />
+    <br />
+  </p>
+</div>
+
+# Issues?
+> If you are experiencing issues, please contact us at `info@socfortress.co`
 
 
 
