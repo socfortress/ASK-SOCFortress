@@ -11,4 +11,4 @@
 | SonicWall | Complete |
 | Meraki | Complete |
 
-### Don't see your firewall? Let us know: *link to webpage*
+### Don't see your firewall? Let us know: https://www.socfortress.co/request_vendor.html
