@@ -112,7 +112,7 @@ Once installed, configure the module to include:
 * API Key
 * Firewall Vendor
 
-> Register for an API Key here: *insert link*
+> [Register for an API Key](https://www.socfortress.co/request_beta.html)
 
 > [Current supported Firewall Vendors](https://github.com/socfortress/ASK-SOCFortress/blob/main/firewalls/README.md)
 
