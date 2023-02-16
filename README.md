@@ -114,16 +114,7 @@ Once installed, configure the module to include:
 
 > Register for an API Key here: *insert link*
 
-> Current supported Firewall Vendors
-
-| Tool | Status         | 
-|---------|----------------|
-| Cisco | Complete | 
-| pfSense | Complete    | 
-| OPNsense | Complete    | 
-| Check Point | Complete |
-
-> Don't see your firewall? Let us know: *link to webpage*
+> [Current supported Firewall Vendors](https://github.com/socfortress/ASK-SOCFortress/blob/main/firewalls/README.md)
 
 1. Navigate to `Advanced -> Modules`
 
