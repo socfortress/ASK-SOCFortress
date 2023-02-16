@@ -1,6 +1,6 @@
 # Current supported Firewall Vendors
 
-| Tool | Status         | 
+| Firewall | Status         | 
 |---------|----------------|
 | Cisco | Complete | 
 | pfSense | Complete    | 
