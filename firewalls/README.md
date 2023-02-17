@@ -10,5 +10,7 @@
 | Palo Alto | Complete |
 | SonicWall | Complete |
 | Meraki | Complete |
+| Sophos | Complete |
+| WatchGuard | Complete |
 
 ### Don't see your firewall? Let us know: https://www.socfortress.co/request_vendor.html
